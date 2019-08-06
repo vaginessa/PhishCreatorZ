@@ -1,4 +1,5 @@
-# PhishCreatorZ
+# PhishCreatorX
+
 Simple app allows you to phish any login-system website 
 
 
